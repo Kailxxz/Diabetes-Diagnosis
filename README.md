@@ -39,3 +39,7 @@ This repository contains code for a web application built with Streamlit to pred
 6. Access the application in your web browser by visiting [http://localhost:8501](http://localhost:8501).
 
 7. Enter the necessary information such as pregnancies, insulin levels, BMI, age, etc., into the form provided and click on the "Predict" button to get the diabetes prediction.
+
+## Deployment
+
+The web application is deployed and accessible at [https://diabetes-diagnosis-1.streamlit.app/](https://diabetes-diagnosis-1.streamlit.app/).
