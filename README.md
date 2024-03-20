@@ -5,7 +5,7 @@ This repository contains code for a web application built with Streamlit to pred
 ## Files
 
 - `diabetes.csv`: Dataset containing variables related to diabetes.
-- `diabetes.py`: Python script containing code to train the machine learning model and save it as a pickle file (`diabetes.pkl`).
+- `diabetes.py`: Python script containing code to train the machine learning model and save it as a pickle file (`model.pkl`).
 - `webapp.py`: Python script containing code for the Streamlit web application to predict diabetes using the trained model.
 
 ## Usage
