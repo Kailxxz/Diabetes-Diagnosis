@@ -1,6 +1,6 @@
 # Diabetes Diagnosis Web Application
 
-This repository contains code for a web application built with Streamlit to predict diabetes using a machine learning model. The model is trained on the `diabetes.csv` dataset and saved as a pickle file named `diabetes.pkl` using `diabetes.py`. The web application is implemented in `webapp.py` using Streamlit.
+This repository contains code for a web application built with Streamlit to predict diabetes using a machine learning model. The model is trained on the `diabetes.csv` dataset and saved as a pickle file named `model.pkl` using `diabetes.py`. The web application is implemented in `webapp.py` using Streamlit.
 
 ## Files
 
