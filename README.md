@@ -43,3 +43,7 @@ This repository contains code for a web application built with Streamlit to pred
 ## Deployment
 
 The web application is deployed and accessible at [https://diabetes-diagnosis-1.streamlit.app/](https://diabetes-diagnosis-1.streamlit.app/).
+
+## Application Screenshot
+
+![Diabetes Diagnosis Application Screenshot](Web%20app%20Screenshot.png)
